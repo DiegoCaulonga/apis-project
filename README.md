@@ -1,8 +1,8 @@
 # apis-project
 En este proyecto, he realizado un estudio a cerca de las estadisticas de todos los equipos que participaron en el Mundial Femenino de Futbol de 2019. 
-
+(https://user-images.githubusercontent.com/69120593/93186472-f80f3280-f73e-11ea-822d-0e561bdc349c.png)
 Mi primer paso fue importar un DataSet de Kaggle con datos de los partidos individuales de todo este mundial. Tenía un total de 52 partidos disputados, repartidos entre fase de grupos, diaciseisavos, octavos, cuartos, semifinales y por ultimo la final. en el torneo compitieron 24 equipos, y fue ganado por el pais dominador de este deporte en el ámbito femenino, Estados Unidos. 
-![image](https://user-images.githubusercontent.com/69120593/93186472-f80f3280-f73e-11ea-822d-0e561bdc349c.png)
+
 Mi segundo paso fue importar un JSON de una API con datos a concretos de cada uno de los equipos.
 
 Tras limpiar las tablas, y dejarlas preparadas para su analisis, las unifique, creando una serie de funciones, a las cuales aplicando un apply, me otorgaron mas datos concretos de cada uno de los equipos, por lo que a la table de la API, le pude añadir muchos datos interesantes nuevos.
