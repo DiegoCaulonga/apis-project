@@ -1,5 +1,6 @@
 # apis-project
-En este proyecto, he realizado un estudio a cerca de las estadisticas de todos los equipos que participaron en el Mundial Femenino de Futbol de 2019. 
+En este proyecto, he realizado un estudio a cerca de las estadisticas de todos los equipos que participaron en el Mundial Femenino de Futbol de 2019.
+![image](https://user-images.githubusercontent.com/69120593/93187905-9c45a900-f740-11ea-9dcc-2cd3d70c2156.png)
 
 Mi primer paso fue importar un DataSet de Kaggle con datos de los partidos individuales de todo este mundial. Tenía un total de 52 partidos disputados, repartidos entre fase de grupos, diaciseisavos, octavos, cuartos, semifinales y por ultimo la final. en el torneo compitieron 24 equipos, y fue ganado por el pais dominador de este deporte en el ámbito femenino, Estados Unidos. 
 
